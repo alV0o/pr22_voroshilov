@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pr22_voroshilov</string>
+    <string name="name_of_city">Название города</string>
+    <string name="temperature">Температура:</string>
+    <string name="feel_like">Ощущается как:</string>
+    <string name="humidity">Влажность:</string>
+    <string name="input_city">Введите город</string>
+</resources>
